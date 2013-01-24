@@ -7,7 +7,7 @@
 
 ##Description
 TWo-Input Logical Perceptron, one of my first attempts at programmatically recreating a self-learning perceptron (artificial neuron).
-It is ne of my first and foremost fumbling attempts at getting to know artificial neural networks and their programming counterparts.
+It is one of my first and foremost fumbling attempts at getting to know artificial neural networks and their programming counterparts.
 The TWo-Input Logical Perceptron (TWILP) actually takes four inputs, and processes them using a single neuron to adjust the respective weights
 to implement the logic behind the inputs and outputs
 
