@@ -1,5 +1,4 @@
-#TWILP
-##TWo-Input Logical Perceptron
+#TWILP (TWo-Input Logical Perceptron)
 * Author: Kenshin Himura *(Sudarsan Balaji)*
 * License: *GNU GPL v3 and CC-BY-NC-SA Licenses* (see gpl.txt and ccbyncsa.txt)
 * Application Version: 1.0
