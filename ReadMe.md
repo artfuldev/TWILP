@@ -32,6 +32,7 @@ linearly separable problems, which is a big disadvantage.
 ##Other Notes
 The inputs to the console program are provided as integers, and make sense to the program only when entering values 1 or 0.
 Any other values to the program are taken as gibberish and the program may not respond as expected.
+This project was done in February 2012.
 
 ##Visions
 * To create a backpropagation network which can work out the logic behind non-linearly separable logical operations like
