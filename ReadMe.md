@@ -1,5 +1,5 @@
 #TWILP (TWo-Input Logical Perceptron)
-* Author: Kenshin The Battōsai *(Sudarsan Balaji)*
+* Author: Kenshin Himura *(Sudarsan Balaji)*
 * License: *GNU GPL v3* (see COPYING.texi)
 * Application Version: 1.0
 * ReadMe Version: 1.1
